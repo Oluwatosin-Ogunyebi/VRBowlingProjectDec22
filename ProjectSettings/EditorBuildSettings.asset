@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VRBowling-Unfinished.unity
+    guid: c0aeb9e7040c5334b94c78a5ceddcb06
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8b9fb4bbff050c5488e3c460419f4485,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce230e93dc47d0f42931943f62fc37b4,
+      type: 2}
